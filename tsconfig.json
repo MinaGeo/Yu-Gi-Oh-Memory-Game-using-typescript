@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6" ,
+    "lib": ["es2016", "esnext", "dom"],          
+    "module": "esnext",
+    "outDir": "dist",
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": false,                            
+    "skipLibCheck": true 
+  },
+  "exclude": ["node_modules"]
+}
